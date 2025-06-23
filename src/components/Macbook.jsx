@@ -20,7 +20,7 @@ const Macbook = () => {
                         <h3 className="text-lg text-black mb-6">Sky blue colour. Sky high performance with M4.</h3>
                         <div className="flex flex-col sm:flex-row gap-3 mb-8">
                             <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full text-sm font-medium transition-colors">
-                                Learn more
+                                Learn More
                             </button>
                             <button className="bg-transparent hover:bg-blue-50 text-blue-600 px-6 py-2 rounded-full text-sm font-medium border-2 border-blue-500 transition-colors">
                                 Buy
@@ -44,7 +44,7 @@ const Macbook = () => {
                         <h3 className="text-lg text-black mb-6">Sky blue colour. Sky high performance with M4.</h3>
                         <div className="flex gap-4 mb-8">
                             <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full text-sm font-medium transition-colors">
-                                Learn more
+                                Learn More
                             </button>
                             <button className="bg-transparent hover:bg-blue-50 text-blue-600 px-6 py-2 rounded-full text-sm font-medium border-2 border-blue-500 transition-colors">
                                 Buy
@@ -71,7 +71,7 @@ const Macbook = () => {
                         <h3 className="text-lg text-black">Mac and iPad.</h3>
                         <h3 className="text-lg text-black mb-6">Major. In any field.</h3>
                         <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full text-sm font-medium transition-colors">
-                            Learn more
+                            Learn More
                         </button>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ const Macbook = () => {
                         <h3 className="text-lg text-black">Mac and iPad.</h3>
                         <h3 className="text-lg text-black mb-6">Major. In any field.</h3>
                         <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full text-sm font-medium transition-colors">
-                            Learn more
+                            Learn More
                         </button>
                     </div>
                 </div>

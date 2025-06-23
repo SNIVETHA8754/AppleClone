@@ -34,7 +34,7 @@ const Footer = () => {
         <p className="text-xs">Features are subject to change. Some features, applications and services may not be available in all regions or all languages.</p>
       </div>
 
-      {/* Main footer links - responsive columns */}
+      {/* Main Footer links - responsive columns */}
       <div className="max-w-screen-xl mx-auto px-4 py-8">
         {/* Mobile view with accordion */}
         <div className="md:hidden">
